@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @Arbaz4Sayyad
+Hi👋 My name is Arbaz Sayyad
 # 💫 About Me:
-      I’m currently working on Full Stack Java Development<br>👯 I’m looking to collaborate on a Project related to SpringBoot & Microservices<br>🤔 I’m looking for help with Backend Service<br>💬 Ask me about anything Web Related<br>📫 How to reach me: arbaz4sayyad@gmail.com<br>⚡ Fun fact: I love sport<br>🌱 I’m currently learning React, Design Patterns etc
+I’m currently working on Full Stack Java Development
+👀 I am Arbaz Sayyad
+💻 I am a Full Stack Java Developer
+👯 I’m looking to collaborate on a Project related to SpringBoot & Microservices
+🤔 I’m looking for help with Backend Service
+💬 Ask me about anything Web Related
+📫 You can contact me at arbaz4sayyad@gmail.com
+🌍  I'm based in PUNE,INDIA
+⚡ Fun fact: I love sports
+🌱 I’m currently learning React, Design Patterns etc
 
 
 ## 🌐 Socials:
