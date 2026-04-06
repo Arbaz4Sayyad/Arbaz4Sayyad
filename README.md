@@ -1,71 +1,102 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-
 <h1 align="center">
-नमस्ते (Namaste), I Am Arbaz Sayyad!<br>
+नमस्ते (Namaste), I'm Arbaz Sayyad 👋
 </h1>
 
+<h3 align="center">
+Backend Engineer | Java • Spring Boot • Distributed Systems
+</h3>
+
+---
+
+## 🚀 About Me
+
+I build backend systems with a focus on **performance, scalability, and clean architecture**.
+
+- 💼 Software Engineer with **2+ years of experience**
+- ⚙️ Strong in **Java, Spring Boot, Microservices architecture**
+- 📉 Improved **P95 API latency by 40%** using caching & query optimization
+- ☁️ Experience deploying systems on **AWS (EC2, RDS, S3)**
+- 🧠 Interested in **Distributed Systems & System Design**
+- 📍 Based in Pune, India
+
+---
+
+## 🧩 What I Work On
+
+- Designing **scalable microservices architectures**
+- Building **low-latency REST APIs**
+- Implementing **caching strategies (Redis, TTL, indexing)**
+- Writing **production-ready, clean, maintainable code**
+- Exploring **system design patterns (scaling, fault tolerance, async processing)**
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 URL Shortener (Scalable System)
+- Designed a **high-throughput URL shortening service**
+- Implemented **Redis caching** → sub-10ms redirects
+- Used **Base62 encoding** for unique ID generation
+- Separated **redirect service & analytics pipeline** for performance isolation
+
+---
+
+### 🔹 AI Meeting Notes System
+- Built **async processing pipeline** for transcription & summarization
+- Integrated AI APIs with **fallback + retry mechanisms**
+- Designed for **non-blocking user experience**
+
+---
+
+### 🔹 Insurance Claims Processing System
+- Developed **event-driven microservices architecture**
+- Designed **loosely coupled services** for claim lifecycle
+- Implemented **idempotent APIs** for reliability in distributed systems
+
+---
+## 🧠 System Design Thinking
+
+I focus on building systems that scale and behave predictably under load.
+
+- ⚡ Caching strategies: Redis (TTL, cache invalidation, read vs write-through)
+- 🔄 Async processing: Background jobs, non-blocking APIs, retry mechanisms
+- 🧱 Service design: Decomposition, loose coupling, failure isolation
+- 📉 Performance: Query optimization, indexing, reducing P95 latency
+- 🔁 Reliability: Idempotency, retries, timeout handling
+- 📊 Trade-offs: Consistency vs latency, scaling reads vs writes
+
+---
+
+## ⚙️ Tech Stack
+
+**Backend:** Java, Spring Boot, Microservices  
+**Databases:** MySQL, MongoDB, Redis  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
+**Frontend:** React, Angular  
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
-
- </p>
-
-<hr/>
-
-
-<img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-### About Me
-- 👋 Hi, I'm **Arbaz Sayyad**, a passionate **Full Stack Developer**  
-- 🎓 MCA Graduate from **Savitribai Phule Pune University, Pune**  
-- 💻 Currently focusing on **Full Stack Java Development & Spring Boot Projects**  
-- 🤝 Open to collaborate on **Web Development & Backend Projects**  
-- 🌱 Always learning **new technologies & cloud-based solutions**  
-- ⚡ Fun Fact: I love **sports and problem-solving**  
-- 📍 Based in **Pune, Maharashtra**  
-- 📫 Contact: **arbaz4sayyad@gmail.com**
-
-### Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/arbaz-sayyad/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/arbaz4sayyad/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
-<a href="https://github.com/Arbaz4Sayyad"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbaz4Sayyad&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz4Sayyad&layout=compact&theme=radical&cache_seconds=1800" />
+ <img src="https://streak-stats.demolab.com?user=Arbaz4Sayyad&theme=radical" />
 </p>
 
 ---
 
-### Skills & Technologies
+## 📬 Let's Connect
 
-#### Languages
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="26px"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40px"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40px"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40px"/>
-<img align="left" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="40px"/>
-<img align="left" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40px"/>
-<br><br>
-
-#### Frameworks & Platforms
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
-<br><br>
-
-#### Tools & Software
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<br><br><br>
+- 💼 LinkedIn: https://www.linkedin.com/in/arbaz-sayyad/
+- 📧 Email: arbaz4sayyad@gmail.com
 
 ---
 
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arbaz4Sayyad&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz4Sayyad&layout=compact&theme=radical" />
-</p>
-<hr/>
+## ⚡ Current Focus
+
+- 📚 Data Structures & Algorithms
+- 🧠 System Design (scalable systems, trade-offs)
+- 🚀 Preparing for product-based companies (MAANG-level)
