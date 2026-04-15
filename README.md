@@ -1,151 +1,156 @@
 <!-- 🔥 PREMIUM HEADER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Arbaz%20Sayyad&fontAlign=50&fontSize=50&desc=Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=65&descSize=18&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Arbaz%20Sayyad&fontAlign=50&fontSize=55&fontColor=00F7FF&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20MAANG%20Aspirant&descAlignY=67&descSize=17&descColor=a9b3c1&animation=fadeIn&stroke=00F7FF&strokeWidth=1" />
 </p>
 
-<!-- 👀 PROFILE VIEWS -->
-
+<!-- 👀 PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arbaz4Sayyad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Arbaz4Sayyad&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Arbaz4Sayyad?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" />
 </p>
 
-<!-- ⚡ TYPING ANIMATION (FIXED) -->
-
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Designing+Scalable+Systems;Backend+Engineer+%7C+Java+%7C+Spring+Boot;Low+Latency+%7C+High+Throughput+Systems;Microservices+%7C+Distributed+Systems;Preparing+for+MAANG+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Designing+Systems+That+Scale+to+Millions;🔧+Backend+Engineer+%7C+Java+%7C+Spring+Boot;🚀+Low+Latency+%7C+High+Throughput+Systems;🧱+Microservices+%7C+Distributed+Architecture;🎯+Targeting+MAANG+%7C+System+Design+Ready" />
 </p>
 
-<h3 align="center">
-⚡ Engineering Systems That Scale to Millions of Users
-</h3>
+<p align="center">
+  <b>⚡ Engineering Systems That Scale to Millions of Users</b>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-💼 Backend Engineer with **2+ years of experience** building **scalable distributed systems**
-
-⚡ I specialize in:
-
-* Designing **low-latency, high-throughput systems**
-* Building **microservices architectures**
-* Solving **scalability & performance problems**
-
-📈 Key Impact:
-
-* Reduced API latency by **40% (P95)**
-* Built **sub-10ms systems using Redis**
-* Designed **production-grade distributed architectures**
+```yaml
+name: Arbaz Sayyad
+role: Backend Engineer
+experience: 2+ years
+location: Pune, India
+focus:
+  - Scalable Distributed Systems
+  - Low-latency High-throughput Architecture
+  - Microservices & System Design
+achievements:
+  - Reduced API latency by 40% (P95)
+  - Built sub-10ms systems using Redis
+  - Designed production-grade distributed architectures
+goal: MAANG 🚀
+```
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🔗 LinkMagic — Distributed URL Shortener
+<table>
+<tr>
+<td width="50%">
 
-👉 https://github.com/Arbaz4Sayyad/linkmagic-url-shortener
+### 🔗 LinkMagic — URL Shortener
+**[→ View Project](https://github.com/Arbaz4Sayyad/linkmagic-url-shortener)**
 
-* ⚡ Sub-10ms redirects using Redis
-* 🧠 Read-heavy optimization
-* 🔁 Base62 + caching strategy
-* 📈 Horizontal scalability
+- ⚡ Sub-10ms redirects via Redis
+- 🧠 Read-heavy optimization
+- 🔁 Base62 + caching strategy
+- 📈 Horizontal scalability
 
----
+</td>
+<td width="50%">
 
-### 🤖 AI Meeting Notes — Async AI System
+### 🤖 AI Meeting Notes — Async AI
+**[→ View Project](https://github.com/Arbaz4Sayyad/AI-Meeting-Notes)**
 
-👉 https://github.com/Arbaz4Sayyad/AI-Meeting-Notes
+- ⚡ Async event-driven pipeline
+- 🧠 AI summarization + transcription
+- 🔁 Retry + fallback mechanisms
+- 📊 Non-blocking architecture
 
-* ⚡ Async event-driven pipeline
-* 🧠 AI summarization + transcription
-* 🔁 Retry + fallback mechanisms
-* 📊 Non-blocking architecture
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🛡️ IECS — Microservices Platform
+**[→ View Project](https://github.com/Arbaz4Sayyad/Insurance-Eligibility-Claims-Processing-System)**
 
-👉 https://github.com/Arbaz4Sayyad/Insurance-Eligibility-Claims-Processing-System
+- 🧱 Distributed microservices system
+- 🔐 JWT + OAuth2 security
+- 📡 API Gateway + service discovery
+- ⚡ Enterprise-scale architecture
 
-* 🧱 Distributed microservices system
-* 🔐 JWT + OAuth2 security
-* 📡 API Gateway + service discovery
-* ⚡ Enterprise-scale architecture
+</td>
+<td width="50%">
+
+### 🚧 Currently Building
+- 🔴 **Rate Limiter System**
+- 📨 **Message Queue System**
+- 🎯 **MAANG-level System Design**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 System Design Focus
+## 🧠 System Design Expertise
 
-* ⚡ Caching (Redis, TTL, invalidation)
-* 🔄 Async processing (queues, retries)
-* 🧱 Microservices architecture
-* 📉 Performance optimization
-* 🔁 Reliability & fault tolerance
-* 📊 Trade-offs (consistency vs latency)
+<p align="center">
 
----
+| ⚡ Performance | 🔄 Reliability | 🧱 Architecture |
+|:---:|:---:|:---:|
+| Redis Caching (TTL, invalidation) | Retry + Fallback Logic | Microservices Design |
+| Sub-10ms latency tuning | Idempotent APIs | API Gateway + Discovery |
+| Read-heavy optimization | Fault tolerance | Event-driven Pipelines |
+| P95 latency reduction | Circuit breakers | Async Processing |
 
-## 🧠 Architecture Highlights (🔥 Recruiter Hook)
-
-* Event-driven systems (async pipelines)
-* Redis caching for ultra-low latency
-* API Gateway + service discovery
-* Idempotent APIs + retry logic
-* Read-heavy system optimization
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,react,mongodb,mysql,redis,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,redis,mongodb,mysql,react,git&theme=dark" />
 </p>
 
 ---
 
-## 📈 GitHub Stats (FIXED)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arbaz4Sayyad&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz4Sayyad&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arbaz4Sayyad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=a9b3c1&cache_seconds=1800&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz4Sayyad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=a9b3c1&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Arbaz4Sayyad&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Arbaz4Sayyad&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
 </p>
 
 ---
 
-## 📊 Contribution Graph (FIXED)
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz4Sayyad&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz4Sayyad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=302b63&point=00F7FF" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arbaz4Sayyad/Arbaz4Sayyad/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arbaz4Sayyad/Arbaz4Sayyad/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arbaz4Sayyad/Arbaz4Sayyad/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arbaz4Sayyad/Arbaz4Sayyad/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
-## 🌍 Open Source & Learning
+## 🌍 Learning & Open Source
 
-* Contributing to backend & Spring ecosystem
-* Practicing DSA (LeetCode, HackerRank)
-* Exploring distributed systems
-
----
-
-## 🚧 Currently Building
-
-* Rate Limiter System
-* Message Queue System
-* MAANG-level System Design
+- 🔧 Contributing to backend & Spring ecosystem
+- 📚 Practicing DSA (LeetCode, HackerRank)
+- 🧠 Exploring distributed systems & system design
 
 ---
 
@@ -155,8 +160,13 @@
   <a href="https://www.linkedin.com/in/arbaz-sayyad/">
     <img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Sayyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:arbaz4sayyad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-arbaz4sayyad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Arbaz4Sayyad">
+    <img src="https://img.shields.io/badge/GitHub-Arbaz4Sayyad-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -164,12 +174,11 @@
 
 ## ⚡ Fun Fact
 
-I love designing systems that scale to millions of users 🚀
+> *"I don't just write code — I architect systems that handle millions of requests with millisecond precision."* 🚀
 
 ---
 
 <!-- 🔥 FOOTER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24243e,50:302b63,100:0f0c29&section=footer&fontColor=00F7FF" />
 </p>
