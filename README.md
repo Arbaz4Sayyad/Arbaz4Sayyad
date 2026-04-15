@@ -1,78 +1,116 @@
-<!-- 🔥 Animated Header -->
+<!-- 🔥 PREMIUM HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Arbaz%20Sayyad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arbaz%20Sayyad&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=65&descSize=18&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
-<!-- 👋 Typing Animation -->
+<!-- 👀 PROFILE VIEWS -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Distributed+Systems;Preparing+for+MAANG+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=Arbaz4Sayyad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<!-- ⚡ TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Designing+Scalable+Systems+at+Scale;Backend+Engineer+%7C+Java+%7C+Spring+Boot;Low+Latency+%7C+High+Throughput+Systems;Microservices+%7C+Distributed+Systems;Preparing+for+MAANG+🚀" />
 </p>
 
 <h3 align="center">
-Building Scalable & Low-Latency Distributed Systems
+⚡ Engineering Systems That Scale to Millions of Users
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I build backend systems with a focus on **performance, scalability, and clean architecture**.
+💼 Backend Engineer with **2+ years of experience** building **scalable distributed systems**
 
-- 💼 Software Engineer with **2+ years of experience**
-- ⚙️ Strong in **Java, Spring Boot, Microservices**
-- ☁️ Experience with **AWS (EC2, RDS, S3)**
-- 🧠 Passionate about **Distributed Systems & System Design**
-- 📍 Pune, India
+⚡ I specialize in:
 
----
+* Designing **low-latency, high-throughput systems**
+* Building **microservices architectures**
+* Solving **scalability & performance problems**
 
-## 🏆 Impact & Achievements
+📈 Key Impact:
 
-- 🚀 Reduced API latency by **40% (P95)** using caching & query optimization  
-- ⚡ Built **sub-10ms response systems** using Redis  
-- 🧱 Designed **scalable microservices architectures**  
-- 📈 Optimized DB queries using **indexing & performance tuning**
+* Reduced API latency by **40% (P95)**
+* Built systems with **sub-10ms response time**
+* Designed **production-ready distributed architectures**
+
+🧠 Currently focused on:
+
+* System Design (MAANG-level)
+* Distributed Systems
+* High-performance backend engineering
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🔹 URL Shortener (Distributed System)
-- High-throughput distributed system
-- Sub-10ms redirects using Redis
-- Base62 encoding + collision handling
-- Horizontal scaling & fault tolerance  
+### 🔗 LinkMagic — Distributed URL Shortener
 
-🔗 https://github.com/Arbaz4Sayyad/linkmagic-url-shortener
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arbaz4Sayyad&repo=linkmagic-url-shortener&theme=radical" />
+</p>
 
----
-
-### 🔹 AI Meeting Notes System
-- Async processing pipeline
-- AI integration with retry & fallback
-- Non-blocking scalable workflows  
-
-🔗 https://github.com/Arbaz4Sayyad/AI-Meeting-Notes
+* ⚡ Sub-10ms redirects using Redis
+* 🧠 Read-heavy system design optimization
+* 🔁 Caching + Base62 ID generation
+* 📈 Horizontal scalability
 
 ---
 
-### 🔹 Insurance Claims Processing System
-- Event-driven microservices
-- Idempotent APIs + retries
-- Fault-tolerant distributed system  
+### 🤖 AI Meeting Notes — Async AI System
 
-🔗 https://github.com/Arbaz4Sayyad/Insurance-Eligibility-Claims-Processing-System
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arbaz4Sayyad&repo=AI-Meeting-Notes&theme=radical" />
+</p>
+
+* ⚡ Async pipeline using events
+* 🧠 AI summarization + transcription
+* 🔁 Retry + fallback mechanisms
+* 📊 Non-blocking system design
+
+---
+
+### 🛡️ IECS — Microservices Platform
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arbaz4Sayyad&repo=Insurance-Eligibility-Claims-Processing-System&theme=radical" />
+</p>
+
+* 🧱 Distributed microservices architecture
+* 🔐 JWT + OAuth2 security
+* 📡 Service discovery + API Gateway
+* ⚡ Scalable enterprise system
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
 ## 🧠 System Design Focus
 
-- ⚡ Caching (Redis, TTL, invalidation)
-- 🔄 Async processing (queues, retries)
-- 🧱 Microservices architecture
-- 📉 Performance optimization
-- 🔁 Reliability & fault tolerance
-- 📊 Trade-offs (consistency vs latency)
+* ⚡ Caching (Redis, TTL, invalidation)
+* 🔄 Async processing (queues, retries)
+* 🧱 Microservices architecture
+* 📉 Performance optimization
+* 🔁 Reliability & fault tolerance
+* 📊 Trade-offs (consistency vs latency)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
@@ -80,6 +118,10 @@ I build backend systems with a focus on **performance, scalability, and clean ar
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,kubernetes,react,mongodb,mysql,redis,git" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
 ---
@@ -97,7 +139,7 @@ I build backend systems with a focus on **performance, scalability, and clean ar
 
 ---
 
-## 📊 Contribution Graph (🔥 Important)
+## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz4Sayyad&theme=react-dark" />
@@ -105,30 +147,45 @@ I build backend systems with a focus on **performance, scalability, and clean ar
 
 ---
 
+## 🐍 Contribution Snake (🔥 Unique)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arbaz4Sayyad/Arbaz4Sayyad/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌍 Open Source & Learning
 
-- Contributing to backend & Spring ecosystem
-- Practicing DSA (LeetCode, HackerRank)
-- Exploring distributed systems
+* Contributing to backend & Spring ecosystem
+* Practicing DSA (LeetCode, HackerRank)
+* Exploring distributed systems
 
 ---
 
 ## 🚧 Currently Building
 
-- Rate Limiter System  
-- Message Queue System  
-- MAANG-level System Design  
+* Rate Limiter System
+* Message Queue System
+* MAANG-level System Design
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arbaz-sayyad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Sayyad-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Sayyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:arbaz4sayyad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://github.com/Arbaz4Sayyad">
+    <img src="https://img.shields.io/badge/GitHub-Arbaz4Sayyad-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -140,7 +197,8 @@ I love designing systems that scale to millions of users 🚀
 
 ---
 
-<!-- 🔥 Footer Wave -->
+<!-- 🔥 FOOTER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 </p>
