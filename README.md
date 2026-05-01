@@ -1,7 +1,8 @@
 <!-- 🔥 PREMIUM HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Arbaz%20Sayyad&fontAlign=50&fontSize=55&fontColor=00F7FF&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20MAANG%20Aspirant&descAlignY=67&descSize=17&descColor=a9b3c1&animation=fadeIn&stroke=00F7FF&strokeWidth=1" />
-</p>
+<div align="center">
+  <h1>Hi there, I'm Arbaz Sayyad 👋</h1>
+  <h3>Backend Engineer | Distributed Systems | Java & Spring Boot</h3>
+</div>
 
 <!-- 👀 PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
