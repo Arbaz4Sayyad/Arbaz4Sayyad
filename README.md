@@ -180,5 +180,5 @@ goal: MAANG 🚀
 
 <!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24243e,50:302b63,100:0f0c29&section=footer&fontColor=00F7FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together.🚀" alt="Footer Animation" />
 </p>
