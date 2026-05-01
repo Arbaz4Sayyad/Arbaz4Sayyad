@@ -1,8 +1,7 @@
 <!-- 🔥 PREMIUM HEADER -->
-<div align="center">
-  <h1>Hi there, I'm Arbaz Sayyad 👋</h1>
-  <h3>Backend Engineer | Distributed Systems | Java & Spring Boot</h3>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=55&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=Hi+There!+👋+I'm+Arbaz" alt="Main Header" />
+</p>
 
 <!-- 👀 PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
@@ -12,7 +11,7 @@
 
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Designing+Systems+That+Scale+to+Millions;🔧+Backend+Engineer+%7C+Java+%7C+Spring+Boot;🚀+Low+Latency+%7C+High+Throughput+Systems;🧱+Microservices+%7C+Distributed+Architecture;🎯+Targeting+MAANG+%7C+System+Design+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=a9b3c1&center=true&vCenter=true&width=800&lines=⚡+Designing+Systems+That+Scale+to+Millions;🔧+Backend+Engineer+%7C+Java+%7C+Spring+Boot;🚀+Low+Latency+%7C+High+Throughput+Systems;🧱+Microservices+%7C+Distributed+Architecture;🎯+Targeting+MAANG+%7C+System+Design+Ready" alt="Skills Typing Animation" />
 </p>
 
 <p align="center">
