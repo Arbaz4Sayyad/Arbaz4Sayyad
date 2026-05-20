@@ -44,51 +44,90 @@ goal: MAANG 🚀
 
 <table>
 <tr>
-<td width="50%">
 
-### 🔗 LinkMagic — URL Shortener
-**[→ View Project](https://github.com/Arbaz4Sayyad/linkmagic-url-shortener)**
+<td width="33%">
 
-- ⚡ Sub-10ms redirects via Redis
-- 🧠 Read-heavy optimization
-- 🔁 Base62 + caching strategy
-- 📈 Horizontal scalability
+### 🚀 CollabMatrix
+
+**[→ View Project](https://github.com/Arbaz4Sayyad/Collab-Matrix)**
+
+* 🔄 Realtime collaboration platform
+* ⚡ WebSocket + Redis sync
+* 📨 Kafka event streaming
+* 🧠 CRDT collaborative editing
 
 </td>
-<td width="50%">
 
-### 🤖 AI Meeting Notes — Async AI
+<td width="33%">
+
+### 🤖 AI Meeting Notes
+
 **[→ View Project](https://github.com/Arbaz4Sayyad/AI-Meeting-Notes)**
 
-- ⚡ Async event-driven pipeline
-- 🧠 AI summarization + transcription
-- 🔁 Retry + fallback mechanisms
-- 📊 Non-blocking architecture
+* ⚡ Async event-driven pipeline
+* 🧠 AI-powered summarization
+* 🔁 Retry & fallback handling
+* 📨 Kafka workflow execution
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🛡️ IECS — Microservices Platform
+<td width="33%">
+
+### 🔗 LinkMagic
+
+**[→ View Project](https://github.com/Arbaz4Sayyad/linkmagic-url-shortener)**
+
+* ⚡ Sub-10ms redirects
+* 🧠 Redis-based caching
+* 🔁 Base62 encoding strategy
+* 📈 Scalable architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+### 🛡️ IECS Platform
+
 **[→ View Project](https://github.com/Arbaz4Sayyad/Insurance-Eligibility-Claims-Processing-System)**
 
-- 🧱 Distributed microservices system
-- 🔐 JWT + OAuth2 security
-- 📡 API Gateway + service discovery
-- ⚡ Enterprise-scale architecture
+* 🧱 Enterprise microservices
+* 🔐 JWT + OAuth2 security
+* 📡 API Gateway architecture
+* 📨 Kafka async workflows
 
 </td>
-<td width="50%">
+
+<td width="33%">
+
+### 🧠 Credit Score Tool
+
+**[→ View Project](https://github.com/Arbaz4Sayyad)**
+
+* 📊 Financial analytics platform
+* ⚡ Redis low-latency caching
+* 📨 Kafka processing pipeline
+* ☁️ Kubernetes-ready infra
+
+</td>
+
+<td width="33%">
 
 ### 🚧 Currently Building
-- 🔴 **Rate Limiter System**
-- 📨 **Message Queue System**
-- 🎯 **MAANG-level System Design**
+
+* 🔴 Distributed Rate Limiter
+* 📨 Message Queue System
+* ⚡ API Gateway & Load Balancer
+* 🧠 MAANG-level System Design
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
